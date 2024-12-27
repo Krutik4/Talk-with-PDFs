@@ -36,8 +36,8 @@ python query_data.py
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/document-query-system.git
-   cd document-query-system
+   git clone https://github.com/Krutik4/Talk-with-PDFs.git
+   cd Talk-with-PDFs
    ```
 2. Install dependencies:
    ```bash
