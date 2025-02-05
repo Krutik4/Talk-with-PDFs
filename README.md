@@ -54,6 +54,15 @@ python query_data.py
    ```
 
 ---
+## Credits
+
+This project was built with the help of the following resource:
+
+- https://www.youtube.com/watch?v=2TJxpyO3ei4
+
+This video provided valuable insights into building a Retrieval-Augmented Generation (RAG) system, which helped shape the implementation of this project.
+
+---
 
 ## License
 
